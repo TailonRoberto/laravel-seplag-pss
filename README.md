@@ -65,7 +65,7 @@ Estou disponibilizando um vídeo para explicar, de forma simples, como instalar,
 
 1. Clone o repositório:
     ```bash
-    git clone <url-do-repositorio>
+    git clone https://github.com/TailonRoberto/laravel-seplag-pss.git
     ```
 
 2. Acesse a pasta do projeto:
